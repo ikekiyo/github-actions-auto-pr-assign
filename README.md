@@ -1,6 +1,9 @@
 # github-actions-auto-pr-assign
 Github Action: PR作成時に自動でアサインする
 
+# Used Github Action
+kentaro-m/auto-assign-action@v1.1.0
+
 # Description
 - トリガー
   - Pull Requestをopenしたとき
